@@ -1,0 +1,11 @@
+com\ego\controller\PortalMenuController.class
+com\ego\service\ItemDescService.class
+com\ego\serviceImpl\ItemServiceImpl.class
+com\ego\pojo\PortalMenu.class
+com\ego\service\MenuService.class
+com\ego\serviceImpl\MenuServiceImpl.class
+com\ego\controller\ItemdescController.class
+com\ego\service\ItemService.class
+com\ego\serviceImpl\ItemDescServiceImpl.class
+com\ego\App.class
+com\ego\pojo\Menu.class

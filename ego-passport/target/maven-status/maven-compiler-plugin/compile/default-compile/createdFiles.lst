@@ -1,0 +1,5 @@
+com\ego\service\TbUserService.class
+com\ego\App.class
+com\ego\serviceImpl\TbUserServiceImpl.class
+com\ego\controller\LoginController.class
+com\ego\controller\RegisterController.class
