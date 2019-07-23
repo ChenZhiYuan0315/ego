@@ -11,7 +11,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Service;
 
-import com.alibaba.dubbo.config.annotation.Reference;
+import com.alibaba.dubbo.config.annotation.Reference
 import com.commons.pojo.EgoStatus;
 import com.commons.utils.CookieUtils;
 import com.commons.utils.IDUtils;
