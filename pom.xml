@@ -32,7 +32,7 @@
   <pagehelper>1.2.3</pagehelper>
   <Mybatis>1.1.1</Mybatis>
   <druid>1.0.9</druid>
-  <commons-net>3.3</commons-net>
+  <commons-net>3.9.0</commons-net>
   <solr>5.3.1</solr>
   </properties>
   
